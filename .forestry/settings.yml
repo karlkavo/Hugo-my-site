@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: themes/hugo-coder/exampleSite/config.toml
+  label: Configuration
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
