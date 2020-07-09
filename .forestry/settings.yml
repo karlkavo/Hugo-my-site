@@ -7,7 +7,6 @@ sections:
 - type: document
   path: themes/hugo-coder/exampleSite/config.toml
   label: Configuration
-  match: "**/*"
 - type: directory
   path: content
   label: Pages
