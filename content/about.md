@@ -3,8 +3,8 @@ title = "About Me"
 slug = "about"
 +++
 
-I am a Junior Software Engineer mostly involved in Web Development. I am currently working for [ServisBOT](https://servisbot.com/), where I am part of the Bot-Building/Customer Sucess team.  
-In my day to day Bot Building I get to play aroud with cool technologies like:
+I am a Junior Software Engineer mostly involved in Web Development. I am currently working for [ServisBOT](https://servisbot.com/), where I am part of the Bot-Building/Customer Success team.  
+In my day to day Bot Building role, I get to play around with cool technologies like:
 
 - [Google DialogFlow](https://en.wikipedia.org/wiki/Dialogflow)
 - [Amazon Lex](https://aws.amazon.com/lex/)
@@ -20,6 +20,6 @@ In my spare time I like to keep fit, I am currently studying Jujitsu, I am also 
 I have been interested in computers since the age of 13. I got a Sincalir Spectrum for Christmas and I've been hooked ever since!
 
 Have questions?  
-Feel free to contact me on [Twitter](https://twitter.com/karlkavo) or [LinkedIn](https://www.linkedin.com/in/karlkavanagh1971/)
+Feel free to contact me on [Twitter](https://twitter.com/karlkavo), [LinkedIn](https://www.linkedin.com/in/karlkavanagh1971/) or [email](mailto:karlkavo@gmail.com).
 
 Thanks for reading!

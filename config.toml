@@ -20,7 +20,7 @@ pygmentscodefencesguesssyntax = true
     description = "Karl's personal website"
     keywords = "blog,developer,personal"
     info = "Software Engineer, Conversation Designer"
-    avatarurl = "imgages/avatar.jpg"
+    avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = "Never let a computer know you're in a hurry!"
 
