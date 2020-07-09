@@ -19,7 +19,7 @@ I'm a graduate of the Institute of Technology, Carlow where I studied Software D
 In my spare time, I like to keep fit. I am currently studying Jujitsu, and I am also a 2nd Degree Blackbelt in Tae Kwon-Do. I like to play the guitar (badly). I play golf in the real world and play a lot of games online.  
 I have been interested in computers and technology from an early age,  at the age of 13 I got a Sinclair Spectrum and I've been hooked ever since!
 
-Have questions?  
+Have a question?  
 Feel free to contact me on [Twitter](https://twitter.com/karlkavo), [LinkedIn](https://www.linkedin.com/in/karlkavanagh1971/) or [email](mailto:karlkavo@gmail.com).
 
 Thanks for reading!
