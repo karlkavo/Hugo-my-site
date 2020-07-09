@@ -9,4 +9,6 @@ title = "My first post!"
 +++
 ### I finally got round to the task of creating my portfolio/about-me website.
 
+![](/uploads/zwjq0in.png)
+
 This site was created using [Hugo](https://gohugo.io/) and hosted for FREE on [Netlify](https://www.netlify.com/). I'm also using [Forestry.io](https://forestry.io/) as a CMS.
