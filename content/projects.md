@@ -11,3 +11,5 @@ Here's a list of some of the little projects I have done in the past:
 * A fun [Starwars soundboard](https://star-wars-soundboard-js.netlify.app/) using HTML, CSS & JavaScript
 * HTML, CSS & Javascript [Meditation](https://js-calm-relax-meditate.netlify.app/) app
 * Another soundboard using HTML, CSS & JavaScript, this time its a [Drum Kit.](https://jsdrumkit00001.netlify.app/)
+
+This is just a few of the projects I have worked on, over the next few days I will be adding much more!
