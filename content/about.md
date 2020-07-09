@@ -1,15 +1,11 @@
 +++
 slug = "about"
-title = "About Me"
+title = ""
 
-<<<<<<< HEAD
-I am a Junior Software Engineer mostly involved in Web Development. I am currently working for [ServisBOT](https://servisbot.com/), where I am part of the Bot-Building/Customer Success team.  
-In my day to day Bot Building role, I get to play around with cool technologies like:
-=======
 +++
-![](/uploads/about-me-leon-severan-we-buy-houses.jpg)I am a Junior Software Engineer mostly involved in Web Development. I am currently working for [ServisBOT](https://servisbot.com/), where I am part of the Bot-Building/Customer Sucess team.  
+![](/uploads/about-me-leon-severan-we-buy-houses.jpg)   
+I am a Junior Software Engineer mostly involved in Web Development. I am currently working for [ServisBOT](https://servisbot.com/), where I am part of the Bot-Building/Customer Sucess team.  
 In my day to day Bot Building I get to play aroud with cool technologies like:
->>>>>>> 839755004b909b0f271bebefb2c45b23532556cc
 
 * [Google DialogFlow](https://en.wikipedia.org/wiki/Dialogflow)
 * [Amazon Lex](https://aws.amazon.com/lex/)
