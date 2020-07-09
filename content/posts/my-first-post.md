@@ -9,9 +9,9 @@ title = "My first post!"
 +++
 ### I finally got round to the task of creating my portfolio/about-me website.
 
-![](/uploads/zwjq0in.png)
+![First blog post](/uploads/zwjq0in.png "Karl Kavanagh first blog post")
 
-This site was created using [Hugo](https://gohugo.io/) and hosted for FREE on [Netlify](https://www.netlify.com/). I'm also using [Forestry.io](https://forestry.io/) as a CMS.
+Hi, thanks for visiting! I created this site using [Hugo](https://gohugo.io/) and hosted for **FREE** on [Netlify](https://www.netlify.com/). I'm also using [Forestry.io](https://forestry.io/) as a CMS.
 
 [Hugo](https://gohugo.io/) is one of the most popular open-sourced static site generators, it's very powerful, flexible and has thousands of themes to choose from.
 
