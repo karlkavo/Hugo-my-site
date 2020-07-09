@@ -11,4 +11,6 @@ title = "My first post!"
 
 ![](/uploads/zwjq0in.png)
 
-This site was created using [Hugo](https://gohugo.io/) and hosted for FREE on [Netlify](https://www.netlify.com/). I'm also using [Forestry.io](https://forestry.io/) as a CMS.
+This site was created using [Hugo](https://gohugo.io/) and hosted for FREE on [Netlify](https://www.netlify.com/). I'm also using [Forestry.io](https://forestry.io/) as a CMS. 
+
+Hugo is one of the most popular open-sourced static site generators, it's very powerful, flexible and has thousands of themes to choose from.
