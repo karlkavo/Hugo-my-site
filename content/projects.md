@@ -5,7 +5,7 @@ title = "Projects"
 +++
 ![](/uploads/rsz_img_224824.png)
 
-Here's a list of some of the little projects I have done in the past:
+Here's a list of some of the fun projects I have done in the past:
 
 * Simple HTML & CSS [restaurant website ](https://html-css-resterauntdemo.netlify.app/)
 * A fun [Starwars soundboard](https://star-wars-soundboard-js.netlify.app/) using HTML, CSS & JavaScript
