@@ -1,7 +1,6 @@
 +++
 date = 2020-07-08T23:00:00Z
 description = "This is my first post on my new site!"
-draft = true
 images = ["/uploads/zwjq0in.png"]
 math = false
 series = []
