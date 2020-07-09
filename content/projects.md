@@ -3,6 +3,6 @@ slug = "projects"
 title = "Projects"
 
 +++
-![My Projects](/uploads/img_224824.png "Projects")
+![](/uploads/rsz_img_224824.png)
 
 Nothing to see here... Move along!
