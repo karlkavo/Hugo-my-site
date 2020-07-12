@@ -16,3 +16,7 @@ title = "Five handy VS Code extensions"
 2. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer): This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use. This is really useful when you are working on a lot of code with lots of brackets.
 
 ![Bracket coloriser VS Code extension](/uploads/screenshot-2020-07-12-at-16-06-40.png "Brackets extension")
+
+3. [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack "Live Share"): This extension has everything you need to start collaboratively editing and debugging in real-time, including integrated audio and text chat. This provides you and your team with one-click installation, in order to begin pair programming, performing remote code reviews, driving interactive lectures, and [more](https://aka.ms/vsls-usecases), without needing to leave Visual Studio Code.
+
+![](/uploads/screenshot-2020-07-12-at-16-15-15.png)
