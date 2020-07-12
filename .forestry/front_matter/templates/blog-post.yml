@@ -21,4 +21,5 @@ fields:
   name: series
   label: series
 pages:
+- content/posts/five-handy-vs-code-extensions.md
 - content/posts/my-first-post.md
