@@ -9,7 +9,7 @@ title = "Five handy VS Code extensions"
 
 +++
 
-VSCode is one of the best code editors out there at the moment.The reason it’s so popular is simply that VSCode provides every developer’s wants, including features that they didn’t even know they needed. 
+VSCode is one of the best code editors out there at the moment. The reason it’s so popular is simply that VSCode provides every developer’s wants, including features that they didn’t even know they needed. 
 
 **Here's a quick list of 5 of my favourite VS Code extensions that just make my development life easier!**
 
