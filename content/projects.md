@@ -7,9 +7,12 @@ title = "Projects"
 
 Here's a list of some of the fun projects I have done in the past:
 
-* Simple HTML & CSS [restaurant website ](https://html-css-resterauntdemo.netlify.app/)
+* Simple HTML & CSS [restaurant website](https://html-css-resterauntdemo.netlify.app/)
+* Python [word game](http://karlkavo.pythonanywhere.com/)
+* A very basic [Freight Management](https://github.com/karlkavo/Java-Freight-Managment) application written in Java with a JavaFX GUI[ ](https://html-css-resterauntdemo.netlify.app/)
 * A fun [Starwars soundboard](https://star-wars-soundboard-js.netlify.app/) using HTML, CSS & JavaScript
 * HTML, CSS & Javascript [Meditation](https://js-calm-relax-meditate.netlify.app/) app
+* [Boards](https://github.com/karlkavo/django_boards) app written in Python and the Django framework
 * Another soundboard using HTML, CSS & JavaScript, this time its a [Drum Kit.](https://jsdrumkit00001.netlify.app/)
 
 This is just a few of the projects I have worked on, over the next few days I will be adding much more!
