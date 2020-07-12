@@ -8,3 +8,6 @@ series = []
 title = "Five handy VS Code extensions"
 
 +++
+**Here's a quick list of 5 of my favourite VS Code extensions that just make my development life easier!**
+
+![](/uploads/screenshot-2020-07-12-at-15-53-18.png)
