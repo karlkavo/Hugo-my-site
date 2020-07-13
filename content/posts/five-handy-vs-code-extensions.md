@@ -27,7 +27,7 @@ VS Code is one of the best code editors out there at the moment. The reason itâ€
 
 ![Prettier Formatter VS Code extension](https://app.forestry.io/sites/bzjnjzag0yl7hw/body-media//uploads/screenshot-2020-07-12-at-16-20-39.png "Prettier Formatter")
 
-[VS Code Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons): With over 5.5 million downloads, VS Code icons is a handy little extension to have. This simple concept makes working on multiple files so much easier. each file type has its own specific icon which makes find file a lot easier as your eye is first attracted to the icon.
+[VS Code Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons): With over 5.5 million downloads, VS Code icons is a handy little extension to have. This simple concept makes working on multiple files so much easier. Each file type has its own specific icon which makes find file a lot easier as your eye is first attracted to the icon.
 
 ![VS Code Icons extension](https://app.forestry.io/sites/bzjnjzag0yl7hw/body-media//uploads/screenshot-2020-07-12-at-16-27-39.png "VS Code Icons")
 
