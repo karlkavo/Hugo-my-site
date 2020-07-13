@@ -12,7 +12,7 @@ In my day to day Bot Building role, I get to play around with cool technologies 
 * [Amazon Rekognition](https://aws.amazon.com/rekognition/?blog-cards.sort-by=item.additionalFields.createdDate&blog-cards.sort-order=desc)
 * [Twilio](https://ahoy.twilio.com/twilio-products?utm_source=google&utm_medium=cpc&utm_term=twilio&utm_campaign=G_S_Brand_EMEA_UK&IRE_mCPC=&gclid=EAIaIQobChMI35Ppq_a66gIVGLLtCh36-gbiEAAYASAAEgKdw_D_BwE&gclsrc=aw.ds)
 
-I'm a graduate of the Institute of Technology Carlow, where I studied Software Development. I have also studied Computer Science at Griffith College, Dublin and recently I completed a level 8 certificate in Data Protection.
+I'm a graduate of the Institute of Technology Carlow, where I studied Software Development. I have also studied Computer Science at Griffith College Dublin and recently I have completed a level 8 certificate in Data Protection.
 
 ### Hobbies
 
