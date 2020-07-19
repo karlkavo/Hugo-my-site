@@ -16,5 +16,6 @@ Here's a list of some of the fun projects I have done in the past:
 * Another soundboard using HTML, CSS & JavaScript, this time its a [Drum Kit.](https://jsdrumkit00001.netlify.app/)
 * Creepy [Halloween theme](https://musing-knuth-ada0cf.netlify.app/) (animated clouds and stars) using HTML, CSS & JavaScript.
 * [Bike repair shop](https://wonderful-kilby-3905d3.netlify.app/) site (HTML, CSS, JS & PHP).
+* [Spinning Phone](https://awesome-clarke-ff74bc.netlify.app/) specs (HTML, CSS & JS)
 
 This is just a few of the projects I have worked on, more to come!
