@@ -30,4 +30,4 @@ To use Split View, click and drag the file tab in the VS Code window and VS Code
 
 The exclude folder option can be used to remove unwanted folders you don’t want to open in Visual Studio Code. To exclude a folder, go to **File -> Preferences -> Settings** (or on Mac **Code -> Preferences -> Settings**), and search for **file.exclude** in the search settings. You can add the pattern of the folder you don’t want Visual Studio Code to open.
 
-![](/uploads/hero.png)
+![VS Code Exclude Folders VS code tips and tricks](/uploads/screenshot-2020-07-24-at-11-47-00.png "VS Code Exclude Folders")
