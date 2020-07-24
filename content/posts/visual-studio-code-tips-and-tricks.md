@@ -18,4 +18,4 @@ Zen Mode is a distraction-free view. All the extra toolboxes and bars in your wi
 
 You can centre-align your code in Zen Mode to experience a view like a document editor. To toggle in and out of the centred layout, **View** > **Appearance** > **Toggle Centered Layout**.
 
-![](/uploads/search-settings.gif)
+![](/uploads/images.png)
