@@ -17,6 +17,8 @@ Zen Mode is a distraction-free view. All the extra toolboxes and bars in your wi
 
 You can centre-align your code in Zen Mode to experience a view like a document editor. To toggle in and out of the centred layout, **View** > **Appearance** > **Toggle Centered Layout**.
 
+![VS Code tips and tricks](/uploads/keep-calm-and-put-zen-mode-on.png "VS Code Zen Mode")
+
 ### SPLIT VIEW
 
 Split View allows you to multitask and work on several files simultaneously, or if you need to check the difference between two files, then use split view. Split View can be customised based on your preferences, whether you like to layout files vertically or horizontally.
@@ -41,7 +43,7 @@ VS Code has a powerful command-line tool that allows you to do many things. The 
 
 * Use commands from your extensions
 * Open preferences
-* Change theme 
+* Change theme
 
 To use the command line, hold  **CMD + shift + p on Mac  (CTRL + shift + p on Windows).**
 
