@@ -46,6 +46,8 @@ VS Code has a powerful command-line tool that allows you to do many things. The 
 
 To use the command line, hold  **CMD + shift + p on Mac  (CTRL + shift + p on Windows).**
 
+![VS code tips and tricks command-line pic](/uploads/screenshot-2020-07-24-at-12-17-07.png "Command-line VS Code")
+
 ### Try it.
 
 VS Code is not only a great code editor, but it has many tools and plugins available to make your development life easier. If you haven't used VS Code yet, give it a go, you have nothing to lose!
