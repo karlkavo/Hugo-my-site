@@ -17,3 +17,11 @@ Visual Studio Code or VS Code is developed by Microsoft for use on Windows, Linu
 Zen Mode is a distraction-free view. All the extra toolboxes and bars in your window will be removed, allowing you to completely focus on your code. To enable Zen Mode select **View** > **Appearance** > **Toggle Zen Mode**.
 
 You can centre-align your code in Zen Mode to experience a view like a document editor. To toggle in and out of the centred layout, **View** > **Appearance** > **Toggle Centered Layout**.
+
+### SPLIT VIEW
+
+Split View allows you to multitask and work on several files simultaneously, or if you need to check the difference between two files, then use the split view. Split View can be customised based on your preferences, whether you like to layout files vertically or horizontally.
+
+To use Split View, click and drag the file tab in the VS Code window and VS Code will display different split view options or select **View** > **Editor Layout** > **Split Up**.
+
+![Split View VS Code tips and tricks](/uploads/comparing-files-in-split-view-2.png "Split View multitasking")
