@@ -20,8 +20,14 @@ You can centre-align your code in Zen Mode to experience a view like a document 
 
 ### SPLIT VIEW
 
-Split View allows you to multitask and work on several files simultaneously, or if you need to check the difference between two files, then use the split view. Split View can be customised based on your preferences, whether you like to layout files vertically or horizontally.
+Split View allows you to multitask and work on several files simultaneously, or if you need to check the difference between two files, then use split view. Split View can be customised based on your preferences, whether you like to layout files vertically or horizontally.
 
 To use Split View, click and drag the file tab in the VS Code window and VS Code will display different split view options or select **View** > **Editor Layout** > **Split Up**.
 
 ![Split View VS Code tips and tricks](/uploads/comparing-files-in-split-view-2.png "Split View multitasking")
+
+### Exclude folders
+
+The exclude folder option can be used to remove unwanted folders you don’t want to open in Visual Studio Code. To exclude a folder, go to **File -> Preferences -> Settings** (or on Mac **Code -> Preferences -> Settings**), and search for **file.exclude** in the search settings. You can add the pattern of the folder you don’t want Visual Studio Code to open.
+
+![](/uploads/hero.png)
