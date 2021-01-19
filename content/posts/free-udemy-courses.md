@@ -10,10 +10,13 @@ title = "Free Udemy Courses"
 
 # Free lifetime Udemy Courses
 
-![](/uploads/istock_79110987_large_0.jpg)
+#### These are full lifetime courses that usually cost from €9.99 to €129.99, however, they may only be free for a short time.
 
-[Python for Beginners](https://www.udemy.com/course/python-tutorial-for-beginners-g/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-AY78PlelUVYN0eyop_eT8A&utm_source=aff-campaign&LSNPUBID=TnL5HPStwNw&utm_medium=udemyads&couponCode=MYREFERRAL)
+* [Python for Beginners](https://www.udemy.com/course/python-tutorial-for-beginners-g/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-AY78PlelUVYN0eyop_eT8A&utm_source=aff-campaign&LSNPUBID=TnL5HPStwNw&utm_medium=udemyads&couponCode=MYREFERRAL)
 
-[PHP for Beginners: PHP Crash Course 2021](https://www.udemy.com/course/learn-php-for-beginners-php-crash-course-2021/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-D77fKW4McP9khTdKth3vCg&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads)
 
-[Learn Python: From Basics to Data Structure](https://www.udemy.com/course/learn-python-from-basics-to-data-structure/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-gNvuq1ytpTiekJKdxDwuvA&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=AABF2CFBCDF4574449BB "Learn Python: From Basics to Data Structure")
+* [PHP for Beginners: PHP Crash Course 2021](https://www.udemy.com/course/learn-php-for-beginners-php-crash-course-2021/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-D77fKW4McP9khTdKth3vCg&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads)
+
+
+* [Learn Python: From Basics to Data Structure](https://www.udemy.com/course/learn-python-from-basics-to-data-structure/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-gNvuq1ytpTiekJKdxDwuvA&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=AABF2CFBCDF4574449BB "Learn Python: From Basics to Data Structure")
+* 
