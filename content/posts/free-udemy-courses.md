@@ -19,4 +19,3 @@ title = "Free Udemy Courses"
 
 
 * [Learn Python: From Basics to Data Structure](https://www.udemy.com/course/learn-python-from-basics-to-data-structure/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-gNvuq1ytpTiekJKdxDwuvA&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=AABF2CFBCDF4574449BB "Learn Python: From Basics to Data Structure")
-* 
