@@ -16,6 +16,7 @@ title = "Free Udemy Courses 21/01/2021"
 
 ##### IT & Development
 
+* [IT Networking Fundamentals with Lab Practicals](https://www.udemy.com/course/it-network-fundamentals/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-bpn5IHk0DNiOVe9gMtNldg&utm_source=aff-campaign&LSNPUBID=TnL5HPStwNw&utm_medium=udemyads&couponCode=NKFREE)
 * 
 
 ##### Other
