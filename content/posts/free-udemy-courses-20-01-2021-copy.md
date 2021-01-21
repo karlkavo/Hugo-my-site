@@ -1,11 +1,11 @@
 +++
-date = 2021-01-20T00:00:00Z
+date = 2021-01-21T00:00:00Z
 description = "A random selecton of FREE lfetime Udemy courses."
 draft = true
-images = ["/uploads/free-online-course.jpg"]
+images = ["/uploads/og-free-courses.jpg"]
 math = false
 series = []
-title = "Free Udemy Courses 20/01/2021-(copy)"
+title = "Free Udemy Courses 21/01/2021"
 
 +++
 ![](/uploads/og-free-courses.jpg)
