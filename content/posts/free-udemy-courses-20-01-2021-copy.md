@@ -1,7 +1,6 @@
 +++
 date = 2021-01-21T00:00:00Z
 description = "A random selecton of FREE lfetime Udemy courses."
-draft = true
 images = ["/uploads/og-free-courses.jpg"]
 math = false
 series = []
