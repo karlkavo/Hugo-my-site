@@ -4,7 +4,7 @@ description = "A random selecton of FREE lfetime Udemy courses."
 images = ["/uploads/free-online-course.jpg"]
 math = false
 series = []
-title = "Free Udemy Courses 21/01/2021"
+title = "Free Udemy Courses 20/01/2021"
 
 +++
 
