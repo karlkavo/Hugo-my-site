@@ -16,13 +16,13 @@ title = "Free Udemy Courses 22/01/2021"
 
 ##### IT & Development
 
-* [IT Networking Fundamentals with Lab Practicals](https://www.udemy.com/course/it-network-fundamentals/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-bpn5IHk0DNiOVe9gMtNldg&utm_source=aff-campaign&LSNPUBID=TnL5HPStwNw&utm_medium=udemyads&couponCode=NKFREE)
-* [Python Flask for Beginners](https://www.udemy.com/course/python-flask-for-beginners/)
-* [Java for Beginners - Step by Step]()
+* [The Ultimate LabView 2020 Course for Absolute Beginners](https://www.udemy.com/course/the-ultimate-labview-2020-course/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-1VLeoBn94qkSOP1KRDMF2Q&utm_source=aff-campaign&LSNPUBID=TnL5HPStwNw&utm_medium=udemyads&couponCode=ULTLV2020)
+* [Responsive Web Design with HTML5 and CSS3 - Advanced](https://www.udemy.com/course/responsive-web-design-with-html5-and-css3-advanced/)
+* [Artificial Intelligence](Artificial Intelligence)
 
 ##### Other
 
-* [First Aid & CPR For Children](https://www.udemy.com/course/paediatric-first-aid-101/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-kT56LysJQHazZ0NLo91.NA&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=TnL5HPStwNw)
-* [Getting Started with Simple Clean Eating](https://www.udemy.com/course/getting-started-with-simple-clean-eating-y/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-9upkxkb.buEs0I_XPU8lAg&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=TnL5HPStwNw&couponCode=JAN2021)
+* [Instagram Growth Hacks 2021: How To Grow Exponentially On IG](https://www.udemy.com/course/instagram-growth-hacks-2021-how-to-grow-exponentially-on-ig/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-Kmz1FXANfJ.KGi.UdFT1DA&utm_source=aff-campaign&LSNPUBID=TnL5HPStwNw&utm_medium=udemyads&couponCode=8317C71554314CD6806C)
+* [Beginner's Guide To KETO Diet](https://www.udemy.com/course/beginners-guide-to-keto-diet-h/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-2VBSgj7fPhy0RvllSVpEFQ&utm_source=aff-campaign&LSNPUBID=TnL5HPStwNw&utm_medium=udemyads&couponCode=JAN2021)
 
 Enjoy!😀
