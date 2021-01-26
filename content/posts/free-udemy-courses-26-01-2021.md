@@ -1,5 +1,5 @@
 +++
-date = 2021-01-22T00:00:00Z
+date = 2021-01-26T00:00:00Z
 description = "A random selecton of FREE lfetime Udemy courses."
 draft = true
 images = ["/uploads/og-free-courses.jpg"]
@@ -16,14 +16,13 @@ title = "Free Udemy Courses 26/01/2021"
 
 ##### IT & Development
 
-* [The Ultimate LabView 2020 Course for Absolute Beginners](https://www.udemy.com/course/the-ultimate-labview-2020-course/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-1VLeoBn94qkSOP1KRDMF2Q&utm_source=aff-campaign&LSNPUBID=TnL5HPStwNw&utm_medium=udemyads&couponCode=ULTLV2020)
-* [Responsive Web Design with HTML5 and CSS3 - Advanced](https://www.udemy.com/course/responsive-web-design-with-html5-and-css3-advanced/)
-* [SQL for Data Analysis and Data Science in 2021](https://www.udemy.com/course/sql-course-for-data-science/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-T.bzfmXBl1azlAvK4clUaQ&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=E0784C4D0AF2C85E1FCF)
+* [Learn PSD to Wordpress : Create A++ Stunning Website](https://www.udemy.com/course/psd-to-wordpress-elementor/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-kDo5LCJoFnqnGumtRSvp1g&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=FRIENDS)
+* [Computer Hardware, Operating System and Networking](https://www.udemy.com/course/computer-hardware-operating-system-and-networking-r/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-Nl3h8ZpJWdsvTMXVof2Udg&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=COMETJHNEFREE)
+* [Object Oriented Programming in JAVA](https://www.udemy.com/course/object-oriented-programming-in-java/)
 
 ##### Other
 
-* [Instagram Growth Hacks 2021: How To Grow Exponentially On IG](https://www.udemy.com/course/instagram-growth-hacks-2021-how-to-grow-exponentially-on-ig/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-Kmz1FXANfJ.KGi.UdFT1DA&utm_source=aff-campaign&LSNPUBID=TnL5HPStwNw&utm_medium=udemyads&couponCode=8317C71554314CD6806C)
-* [Beginner's Guide To KETO Diet](https://www.udemy.com/course/beginners-guide-to-keto-diet-h/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-2VBSgj7fPhy0RvllSVpEFQ&utm_source=aff-campaign&LSNPUBID=TnL5HPStwNw&utm_medium=udemyads&couponCode=JAN2021)
-* [Computer Skills for Parents to Teach their Kids](https://www.udemy.com/course/computer-skills-for-parents-to-teach-their-kids/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-W2p4nN0ERCkwZEXI50fizA&utm_source=aff-campaign&LSNPUBID=TnL5HPStwNw&utm_medium=udemyads&couponCode=LEARNCOMPUTERS)
+* [QuickBooks Enterprise 2020- Two Businesses & Personal in One](udemy.com/course/quickbooks-enterprise-2020-two-businesses-personal-in-one/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-wgAL.aAvv9H4aW5em5231w&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=9523349A9230B90E942E)
+* [Building Sales Relationships & Networking](https://www.udemy.com/course/building-sales-relationships-networking/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-9c6RXI9tZD0ethYg_PFLeA&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=JANUARY2021)
 
-  Enjoy!😀
+Enjoy!😀
