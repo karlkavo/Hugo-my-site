@@ -22,7 +22,7 @@ title = "Free Udemy Courses 26/01/2021"
 
 ##### Other
 
-* [QuickBooks Enterprise 2020- Two Businesses & Personal in One](udemy.com/course/quickbooks-enterprise-2020-two-businesses-personal-in-one/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-wgAL.aAvv9H4aW5em5231w&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=9523349A9230B90E942E)
+* [QuickBooks Enterprise - Two Businesses & Personal in One](https://www.udemy.com/course/quickbooks-enterprise-2020-two-businesses-personal-in-one/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-wgAL.aAvv9H4aW5em5231w&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=9523349A9230B90E942E)
 * [Building Sales Relationships & Networking](https://www.udemy.com/course/building-sales-relationships-networking/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-9c6RXI9tZD0ethYg_PFLeA&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=JANUARY2021)
 
 Enjoy!😀
