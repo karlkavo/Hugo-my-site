@@ -22,6 +22,6 @@ Get them while you can!
 ##### Other
 
 * [Mastering YouTube 2021: Vlogging, Marketing, SEO, 1M+ Views](https://www.udemy.com/course/mastering-youtube-2021/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-AQcmVtjh8dINNtQnSv673g&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=YOUTUBE1 "Youtube marketing")
-* [Pinterest Marketing Decoded 2021]()
+* [Pinterest Marketing Decoded 2021](https://www.udemy.com/course/pinterest-marketing-decoded-2021/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-URKkFYwcIKLCLg.sfhyPnQ&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=FREE10)
 
 Enjoy!😀
