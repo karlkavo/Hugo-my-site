@@ -1,28 +1,28 @@
 +++
-date = 2021-01-26T00:00:00Z
-description = "A random selecton of FREE lfetime Udemy courses."
+date = 2021-01-29T00:00:00Z
+description = "FREE lfetime Udemy courses."
 draft = true
-images = ["/uploads/og-free-courses.jpg"]
+images = ["/uploads/download.jpeg"]
 math = false
 series = []
 title = "Free Udemy Courses 29/01/2021"
 
 +++
-![](/uploads/og-free-courses.jpg)
+![](/uploads/download.jpeg)
 
 ### Free lifetime Udemy Courses
 
-#### These are full lifetime courses that usually cost from €9.99 to €129.99, however, they may only be free for a short time.
+FREE full lifetime Udemy courses that usually cost from €12.99 to €129.99. This offer is only available for a short time.  
+Get them while you can!
 
 ##### IT & Development
 
-* [Learn PSD to Wordpress : Create A++ Stunning Website](https://www.udemy.com/course/psd-to-wordpress-elementor/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-kDo5LCJoFnqnGumtRSvp1g&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=FRIENDS)
-* [Computer Hardware, Operating System and Networking](https://www.udemy.com/course/computer-hardware-operating-system-and-networking-r/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-Nl3h8ZpJWdsvTMXVof2Udg&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=COMETJHNEFREE)
-* [Object Oriented Programming in JAVA](https://www.udemy.com/course/object-oriented-programming-in-java/)
+* [C Programming - The Ultimate Complete Practice Test](https://www.udemy.com/course/c-programming-the-ultimate-complete-practice-test/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-5TiWQoJj2RvPvyodygL7lQ&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=TnL5HPStwNw&couponCode=FREE-TEST "C Programming")
+* [Java Certification : OCA Java Programmer I Certification](https://www.udemy.com/course/java-certification-oca-java-programmer-i-certification/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-KNNa5TjlXr2Dkqlnz8Arng&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=TnL5HPStwNw&couponCode=F42A40FB87B0D962E65A "Java")
 
 ##### Other
 
-* [QuickBooks Enterprise - Two Businesses & Personal in One](https://www.udemy.com/course/quickbooks-enterprise-2020-two-businesses-personal-in-one/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-wgAL.aAvv9H4aW5em5231w&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=9523349A9230B90E942E)
-* [Building Sales Relationships & Networking](https://www.udemy.com/course/building-sales-relationships-networking/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-9c6RXI9tZD0ethYg_PFLeA&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=JANUARY2021)
+* [Mastering YouTube 2021: Vlogging, Marketing, SEO, 1M+ Views](https://www.udemy.com/course/mastering-youtube-2021/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-AQcmVtjh8dINNtQnSv673g&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=YOUTUBE1 "Youtube marketing")
+* [Pinterest Marketing Decoded 2021]()
 
 Enjoy!😀
