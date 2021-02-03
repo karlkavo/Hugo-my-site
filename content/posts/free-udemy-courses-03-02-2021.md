@@ -1,5 +1,5 @@
 +++
-date = 2021-01-29T00:00:00Z
+date = 2021-02-03T00:00:00Z
 description = "FREE lfetime Udemy courses."
 draft = true
 images = ["/uploads/download.jpeg"]
@@ -17,12 +17,11 @@ Get them while you can!
 
 ##### IT & Development
 
-* [C Programming - The Ultimate Complete Practice Test](https://www.udemy.com/course/c-programming-the-ultimate-complete-practice-test/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-5TiWQoJj2RvPvyodygL7lQ&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=TnL5HPStwNw&couponCode=FREE-TEST "C Programming")
-* [Java Certification : OCA Java Programmer I Certification](https://www.udemy.com/course/java-certification-oca-java-programmer-i-certification/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-KNNa5TjlXr2Dkqlnz8Arng&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=TnL5HPStwNw&couponCode=F42A40FB87B0D962E65A "Java")
+* [SAS Certified Associate: SAS Programming Fundamentals](https://www.udemy.com/course/sas-certified-associate-sas-programming-fundamentals/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-j3y6GWyrjtL3WFBzwpU4Nw&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=77292E36B1591DE26094).
+* [Develop your first App in Android Studio using Firebase](https://www.udemy.com/course/develop-your-first-app-in-android-studio-using-firebase/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-150fvjUwquuf9TXFxV9Hrg&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=A2AE0E9DD0F9A93E2506)
 
-##### Other
+##### 
 
-* [Mastering YouTube 2021: Vlogging, Marketing, SEO, 1M+ Views](https://www.udemy.com/course/mastering-youtube-2021/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-AQcmVtjh8dINNtQnSv673g&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=YOUTUBE1 "Youtube marketing")
-* [Pinterest Marketing Decoded 2021](https://www.udemy.com/course/pinterest-marketing-decoded-2021/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-URKkFYwcIKLCLg.sfhyPnQ&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=FREE10)
-
-Enjoy!😀
+* [Guided Breathing Meditation for Stress, Anxiety and Anger](https://www.udemy.com/course/guided-breathing-meditation-for-stress-anxiety-anger/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-UifBJBwcc8qnxw_nMeMK3w&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads)
+* [Morning Routine: 7-Day Magical Morning Routine](https://www.udemy.com/course/7-days-of-magical-mornings-how-to-make-your-morning-magical/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-lp2k8JBDXJw2NANUeQwPOw&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=MORNINGREVIEW)
+* [Start Making Passive Income Today without Content](https://www.udemy.com/course/start-making-passive-income-today-without-content/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-fXcPQyrC.AHqtagWjqfSUg&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads)
