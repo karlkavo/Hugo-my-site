@@ -24,4 +24,4 @@ Get them while you can!
 
 * [Guided Breathing Meditation for Stress, Anxiety and Anger](https://www.udemy.com/course/guided-breathing-meditation-for-stress-anxiety-anger/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-UifBJBwcc8qnxw_nMeMK3w&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads)
 * [Morning Routine: 7-Day Magical Morning Routine](https://www.udemy.com/course/7-days-of-magical-mornings-how-to-make-your-morning-magical/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-lp2k8JBDXJw2NANUeQwPOw&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=MORNINGREVIEW)
-* 
+* [Agent Payday: The Complete Done-For-You Real Estate Business](https://www.udemy.com/course/real-estate-agent-payday/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-ChnXUgwnfJmpmqZhL4VAMg&utm_source=aff-campaign&LSNPUBID=TnL5HPStwNw&utm_medium=udemyads&couponCode=LAUNCH2021)
