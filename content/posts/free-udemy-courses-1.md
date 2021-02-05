@@ -2,13 +2,13 @@
 date = 2021-01-29T00:00:00Z
 description = "FREE lfetime Udemy courses."
 draft = true
-images = ["/uploads/download.jpeg"]
+images = ["/uploads/free-online-course.jpg"]
 math = false
 series = []
 title = "Free Udemy Courses"
 
 +++
-![](/uploads/download.jpeg)
+![](/uploads/663x373xnew-skills-academy-online-courses-jpg-pagespeed-ic-5hbhix-f6q.jpg)
 
 ### Free lifetime Udemy Courses
 
@@ -17,12 +17,11 @@ Get them while you can!
 
 ##### IT & Development
 
-* [C Programming - The Ultimate Complete Practice Test](https://www.udemy.com/course/c-programming-the-ultimate-complete-practice-test/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-5TiWQoJj2RvPvyodygL7lQ&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=TnL5HPStwNw&couponCode=FREE-TEST "C Programming")
-* [Java Certification : OCA Java Programmer I Certification](https://www.udemy.com/course/java-certification-oca-java-programmer-i-certification/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-KNNa5TjlXr2Dkqlnz8Arng&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=TnL5HPStwNw&couponCode=F42A40FB87B0D962E65A "Java")
+* [Complete Web Design and Development Course : 14 Courses in 1](https://www.udemy.com/course/complete-web-design-course/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-_QIOzRmE4GrQp19Eh5_ttQ&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=TnL5HPStwNw&couponCode=FRIENDS)
 
-##### Other
+##### Personal Development
 
-* [Mastering YouTube 2021: Vlogging, Marketing, SEO, 1M+ Views](https://www.udemy.com/course/mastering-youtube-2021/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-AQcmVtjh8dINNtQnSv673g&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=YOUTUBE1 "Youtube marketing")
-* [Pinterest Marketing Decoded 2021](https://www.udemy.com/course/pinterest-marketing-decoded-2021/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-URKkFYwcIKLCLg.sfhyPnQ&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=FREE10)
-
-Enjoy!😀
+* [The Complete Writing Course: Develop True Writing Mastery](https://www.udemy.com/course/the-complete-writing-course-develop-true-writing-mastery/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-.QjpI.vGOcuyfy9ECx5M2g&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=ACC9A445CC14A4F5B5C0)
+* [Personal Transformation Psychology for Weight Loss](https://www.udemy.com/course/weight-loss-psychology/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-D0.uez64KkaJ4mefmjVCWw&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=50CC35A616B35A9A5823)
+* [Personal Transformation Psychology for Removing Addictions](https://www.udemy.com/course/remove-addictions/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-7CidrJPZSofzrqcgoCqkhw&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=TnL5HPStwNw&couponCode=4B01B02DD31988721F42)
+* [Fundamentals of Mindfulness](https://www.udemy.com/course/mindfulness-fundamentals/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-xd9A9iDtsn1SqraxJ78zPw&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=TnL5HPStwNw&couponCode=AC8800D512178A38F608)
