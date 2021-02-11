@@ -22,7 +22,7 @@ Get them while you can!
 
 ##### Other
 
-* [Stock Market Trading: The Complete Technical Analysis Course]()
+* [Stock Market Trading: The Complete Technical Analysis Course](https://www.udemy.com/course/stock-market-trading-investing-complete-technical-analysis-course/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-kAlJ0IF6XtqNmqloW9vSbA&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=LAUNCHFREE)
 * [The Complete Danish Course (18+ Hours of Danish Lessons)](https://www.udemy.com/course/learn-danish-for-beginners-intensive-danish-language-course/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-zXT85CGIdrNrcDgoz7kc4A&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=B1D50D95747837FD7314)
 * [How to Learn a Foreign Language Effectively and Efficiently](https://www.udemy.com/course/how-to-learn-a-foreign-language-effectively-and-efficiently/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-g4O1fM1baFI7wDdPEAyRZw&LSNPUBID=TnL5HPStwNw&utm_source=aff-campaign&utm_medium=udemyads&couponCode=FEB2021)
 
