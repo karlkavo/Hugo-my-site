@@ -1,7 +1,6 @@
 +++
 date = 2021-02-11T00:00:00Z
 description = "FREE lfetime Udemy courses."
-draft = true
 images = ["/uploads/663x373xnew-skills-academy-online-courses-jpg-pagespeed-ic-5hbhix-f6q.jpg"]
 math = false
 series = []
