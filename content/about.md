@@ -10,8 +10,8 @@ I'm a graduate of the Institute of Technology Carlow, where I studied Software D
 
 I'm a  Software Engineer mostly involved in Web Development.
 
-I am interested in UX & UI and providing an all-round user/customer experience.
+I am interested in UX & UI and providing a great user/customer experience.
 
-Feel free to contact me on [Twitter](https://twitter.com/karlkavo), [LinkedIn](https://www.linkedin.com/in/karlkavanagh1971/) or [email](mailto:karlkavo@gmail.com).
+Feel free to contact me on [Twitter](https://twitter.com/karlkavo), [LinkedIn](https://www.linkedin.com/in/karlkavanagh1971/), or [email](mailto:karlkavo@gmail.com).
 
 Thanks for reading!
